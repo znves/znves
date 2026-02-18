@@ -1,17 +1,14 @@
 <div align="center">
   <img src="meow2.jpg" alt="Header Image" width="150" style="border-radius: 50%;"/>
   <h1>Hi, I'm Vestionz! 👋</h1>
-  <p><i>Student & Enthusiastic Web Developer from Indonesia 🇮🇩</i></p>
-</div>
 
 ---
 
 ### 👨‍💻 About Me
 
-* 🔭 Currently developing **[Nefhlab](https://nefhlab.my.id)** (an educational platform) and building the official website for **PMR Wiradaka**.
+* 🔭 Currently developing **[Nefhlab](https://nefhlab.my.id)** (an educational platform).
 * 🌱 Focusing on modern web development, especially using **Vite & React**.
-* 🎮 In my free time, I enjoy creating mini-games and experimenting with AI-generated visual assets.
-* 🏫 Active student at SMAN 2 Majalengka.
+* 🎮 In my free time, I enjoy creating mini-games and experimenting.
 
 ---
 
