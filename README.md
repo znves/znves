@@ -19,7 +19,7 @@
   <a href="https://instagram.com/akbarapriloo" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://tiktok.com/@akbarapriloo" target="_blank">
+  <a href="https://tiktok.com/@sopbandung" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
 </div>
