@@ -1,6 +1,6 @@
 <div align="center">
   <img src="meow2.jpg" alt="Header Image" width="150" style="border-radius: 50%; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);"/>
-  <h1>Hi, I'm Vestionz! 👋</h1>
+  <h1>Hi, I'm VES 👋</h1>
 
 ### 🔥 GitHub Stats
 
