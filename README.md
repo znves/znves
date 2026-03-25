@@ -28,4 +28,7 @@
   <a href="https://discord.com/users/995913592253710356" target="_blank">
     <img width="350" src="https://lanyard.cnrad.dev/api/995913592253710356" alt="Discord Status"/>
   </a>
+  <a href="https://discord.com/users/995913592253710356" target="_blank">
+    <img width="350" src="https://lanyard.cnrad.dev/api/406465220391731220" alt="Discord Status"/>
+  </a>
 </div>
