@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.pinimg.com/originals/a8/e5/9c/a8e59cd6a342cc3df98f793229f8bc91.gif" width="400"/>
+</p>
+
 ### 🔥 GitHub Stats
 
 <div align="center">
