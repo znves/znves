@@ -8,7 +8,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=znves&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=znves&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
   <br><br>
   <img src="https://u8views.com/api/v1/github/profiles/159621234/views/day-week-month-total-count.svg" alt="Profile Views" />
 </div>
