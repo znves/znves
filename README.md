@@ -29,7 +29,3 @@
   <a href="https://discord.com/users/406465220391731220" target="_blank">
     <img width="350" src="https://lanyard.cnrad.dev/api/406465220391731220" alt="First Account"/>
   </a>
-  <a href="https://discord.com/users/995913592253710356" target="_blank">
-    <img width="350" src="https://lanyard.cnrad.dev/api/995913592253710356" alt="Second Account"/>
-  </a>
-</div>
